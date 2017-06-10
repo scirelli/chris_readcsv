@@ -1,0 +1,52 @@
+State,Abbreviation,Risk Category
+Alabama,AL,High
+Alaska,AK,Medium
+Arizona,AZ,Low
+Arkansas,AR,High
+California,CA,Medium
+Colorado,CO,Low
+Connecticut,CT,High
+Delaware,DE,Medium
+District of Columbia,DC,Low
+Florida,FL,High
+Georgia,GA,Medium
+Hawaii,HI,Low
+Idaho,ID,High
+Illinois,IL,Medium
+Indiana,IN,Low
+Iowa,IA,High
+Kansas,KS,Medium
+Kentucky,KY,Low
+Louisiana,LA,High
+Maine,ME,Medium
+Montana,MT,Low
+Nebraska,NE,High
+Nevada,NV,Medium
+New Hampshire,NH,Low
+New Jersey,NJ,High
+New Mexico,NM,Medium
+New York,NY,Low
+North Carolina,NC,High
+North Dakota,ND,Medium
+Ohio,OH,Low
+Oklahoma,OK,High
+Oregon,OR,Medium
+Maryland,MD,Low
+Massachusetts,MA,High
+Michigan,MI,Medium
+Minnesota,MN,Low
+Mississippi,MS,High
+Missouri,MO,Medium
+Pennsylvania,PA,Low
+Rhode Island,RI,High
+South Carolina,SC,Medium
+South Dakota,SD,Low
+Tennessee,TN,High
+Texas,TX,Medium
+Utah,UT,Low
+Vermont,VT,High
+Virginia,VA,Medium
+Washington,WA,Low
+West Virginia,WV,High
+Wisconsin,WI,Medium
+Wyoming,WY,Low
